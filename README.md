@@ -87,9 +87,11 @@
 ###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eslam-mg&theme=dracula&border_radius=5" height="150" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Eslam-mg&theme=dracula&margin-w=8&margin-h=8" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Eslam-mg&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Eslam-mg&theme=dracula" />
 </p>
 
 ###
