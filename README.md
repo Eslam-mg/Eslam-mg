@@ -87,7 +87,7 @@
 ###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Eslam-mg&theme=dracula" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-mg&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
