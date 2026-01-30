@@ -87,7 +87,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-mg&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-mg&theme=dracula" />
 </p>
 
 <p align="center">
