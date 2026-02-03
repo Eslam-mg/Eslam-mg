@@ -90,8 +90,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eslam-mg&theme=dracula" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eslam-mg&theme=dracula" />
-</p>
-
 ###
